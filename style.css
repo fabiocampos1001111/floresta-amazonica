@@ -1,0 +1,8 @@
+h2{color:#152925;}
+body{background-color:#CB9BBD;color:white;font-weight: bolder; text-align: center;}
+header {border-bottom:1px  solid gray;}
+footer {border-top: 1px solid gray;}
+#nome-usuário{
+    font-weight: bold;
+}
+.texto-portugues{ font-style: italic;}
